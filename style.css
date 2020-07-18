@@ -2,13 +2,11 @@ body{
 margin-left: 30%;
 margin-right: 30%;
 }
-p{
-background-color: cadetblue;
-}
-.flex-container{
+ul{
 display: flex;
-flex-direction: row;
+justify-content: center;
 }
-.main-div p{
-width: 30px;
+.line{
+    display: flex;
+    flex-direction: column;
 }
