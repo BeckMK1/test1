@@ -1,0 +1,14 @@
+body{
+margin-left: 30%;
+margin-right: 30%;
+}
+p{
+background-color: cadetblue;
+}
+.flex-container{
+display: flex;
+flex-direction: row;
+}
+.main-div p{
+width: 30px;
+}
